@@ -11,8 +11,7 @@ Before running the code, you need to set up your environment.
 Open your terminal or command prompt and run the following command to download the code to your local machine:
 
 ```bash
-git clone <repository_url>
-cd fourier
+git clone https://github.com/nauraalwa/Fourier-Final-Project.git
 ```
 
 ### 2. Set Up a Virtual Environment
